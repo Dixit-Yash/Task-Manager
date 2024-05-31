@@ -10,7 +10,7 @@ npm run server
 ```
 and 
 ```
-npm run server
+npm run client
 ```
 in 2 different terminals to run the application
 
